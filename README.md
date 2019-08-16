@@ -4,6 +4,6 @@ Bootstrap 4 Dynamic Carousel using jQuery for different screens Desktop and Mobi
 # Use mobile view to check the mobile slider.
 
 
-# Here is the demo link.
+Here is the demo link.
 
 http://freewebbappresources.com/demo/bootstrap-dynamic-carousel/index.html
